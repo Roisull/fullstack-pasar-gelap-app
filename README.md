@@ -14,22 +14,22 @@
 - Product Detail
 - Cart Shopping
 - Checkout
-    > Shopping Cost Calculation
-    > Payment Gateway
+    - Shopping Cost Calculation
+    - Payment Gateway
 - Order History
 - Admin Panel
-    > Dashboard
-    > Product Manage
-    > Order Manage
-    > User Manage
-    > Report
-    > Configuration
+    - Dashboard
+    - Product Manage
+    - Order Manage
+    - User Manage
+    - Report
+    - Configuration
 
 # Tech Stack
 - Golang
-    > Gorilla Mux
-    > Gorm
+    - Gorilla Mux
+    - Gorm
 - Database
-    > PostgreSQL
+    - PostgreSQL
 - Frontend
-    > Basic Bootstrap
+    - Basic Bootstrap
