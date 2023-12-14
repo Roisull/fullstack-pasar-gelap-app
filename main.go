@@ -1,7 +1,7 @@
 package main
 
-import "fmt"
+import "pasar-gelap/app"
 
 func main() {
-	fmt.Print("hallo")
+	app.Run()
 }
