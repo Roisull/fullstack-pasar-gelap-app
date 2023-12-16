@@ -38,3 +38,4 @@
 - Youtube Channel : IndoKoding (https://github.com/gieart87/gotoko)
 - Medium Channel : victor steven (https://levelup.gitconnected.com/crud-restful-api-with-go-gorm-jwt-postgres-mysql-and-testing-460a85ab7121)
 - Website : novalagung (https://dasarpemrogramangolang.novalagung.com/)
+- website : EDB (https://www.enterprisedb.com/postgres-tutorials/postgresql-and-golang-tutorial)
