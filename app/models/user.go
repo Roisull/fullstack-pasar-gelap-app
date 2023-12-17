@@ -2,7 +2,8 @@ package models
 
 import (
 	"time"
-	// "gorm.io/gorm"
+
+	"gorm.io/gorm"
 )
 
 type User struct {
@@ -15,5 +16,5 @@ type User struct {
 	RememberToken string `gorm:"size:255;not null"`
 	CreatedAt     time.Time
 	UpdatedAt     time.Time
-	DeletedAt     time.Time
+	DeletedAt     gorm.DeletedAt
 }
