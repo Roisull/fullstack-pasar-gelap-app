@@ -5,6 +5,7 @@ import (
 	"log"
 	"net/http"
 	"os"
+	"pasar-gelap/database/seeders"
 
 	"github.com/gorilla/mux"
 	"github.com/joho/godotenv"
@@ -37,6 +38,7 @@ func (server *Server) initialize(appConfig AppConfig, dbConfig DBConfig) {
 
 	server.initializeDB(dbConfig)
 	server.initializeRoutes()
+	seeders.DBSeed(server.DB)
 }
 
 func (server *Server) Run(addr string) {
