@@ -39,3 +39,6 @@
 - Medium Channel : victor steven (https://levelup.gitconnected.com/crud-restful-api-with-go-gorm-jwt-postgres-mysql-and-testing-460a85ab7121)
 - Website : novalagung (https://dasarpemrogramangolang.novalagung.com/)
 - website : EDB (https://www.enterprisedb.com/postgres-tutorials/postgresql-and-golang-tutorial)
+- urfave cli : (https://github.com/urfave/cli)
+- slug : (https://github.com/gosimple/slug)
+- bxcode faker : (https://github.com/bxcodec/faker)
